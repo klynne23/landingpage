@@ -2,6 +2,11 @@ nav p{
     padding: 10px;
 }
 
+nav p:hover {
+    color: orange;
+    background-color: grey;
+}
+
 .jumbotron {
     background-image: url(./pic.jpg);
     background-size: cover;
