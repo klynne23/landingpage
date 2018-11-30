@@ -53,3 +53,7 @@ h3 {
 form {
     padding-bottom: 3%;
 }
+
+.container p {
+    text-align: center;
+}
