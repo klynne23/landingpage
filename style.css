@@ -3,7 +3,7 @@ nav p{
 }
 
 nav p:hover {
-    color: ora;
+    color: orange;
     background-color: grey;
 }
 
@@ -56,4 +56,8 @@ form {
 
 .container p {
     text-align: center;
+}
+
+.form-control {
+    width: 50%;
 }
