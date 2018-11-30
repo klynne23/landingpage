@@ -3,7 +3,7 @@ nav p{
 }
 
 nav p:hover {
-    color: orange;
+    color: ora;
     background-color: grey;
 }
 
@@ -35,7 +35,9 @@ h2 {
 
 img {
     width: 50px;
-   margin-left: 175px;
+    display: block;
+    margin: 0 auto;
+  
 }
 
 h3 {
