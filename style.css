@@ -1,0 +1,48 @@
+nav p{
+    padding: 10px;
+}
+
+.jumbotron {
+    background-image: url(./pic.jpg);
+    background-size: cover;
+    min-height: 500px;
+}
+
+.navbar {
+    background-color: #2889ff;
+}
+
+h1 {
+    text-align: right;
+    padding-bottom: 3%;
+    padding-top: 4%;
+}
+
+h2 {
+    text-align: right;
+    padding-bottom: 3%;
+}
+
+.btn-lg {
+    position: relative;
+    left: 80%;
+}
+
+img {
+    width: 50px;
+   margin-left: 175px;
+}
+
+h3 {
+    padding-top: 3%;
+    text-align: center;
+    color: #2889ff;
+}
+
+.form-inline {
+    padding-bottom: 0%;
+}
+
+form {
+    padding-bottom: 3%;
+}
