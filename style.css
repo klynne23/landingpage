@@ -1,10 +1,10 @@
 nav p{
     padding: 10px;
 }
-
 nav p:hover {
     color: ora;
     background-color: grey;
+
 }
 
 .jumbotron {
@@ -36,11 +36,11 @@ h2 {
 img {
     width: 50px;
     display: block;
-    margin: 0 auto;
-  
+    margin: 0 auto;     
+
 }
 
-h3 {
+                h3 {
     padding-top: 3%;
     text-align: center;
     color: #2889ff;
@@ -50,6 +50,12 @@ h3 {
     padding-bottom: 0%;
 }
 
-form {
+              form {
     padding-bottom: 3%;
+}
+.form-control{
+    width: 50%;
+}
+.container p{
+    text-align:center;
 }
